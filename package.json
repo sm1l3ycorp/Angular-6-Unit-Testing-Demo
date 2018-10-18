@@ -1,0 +1,32 @@
+{
+  "name": "angular-6-unit-testing-demo",
+  "version": "1.0.0",
+  "description": "Angular 6 Unit Testing Demo via Jasmine/Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm1l3ycorp/Angular-6-Unit-Testing-Demo.git"
+  },
+  "keywords": [
+    "Angular",
+    "Unit",
+    "Testing",
+    "Jasmine",
+    "Karma",
+    "TypeScript",
+    "Angular",
+    "6"
+  ],
+  "author": "Miles Leach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sm1l3ycorp/Angular-6-Unit-Testing-Demo/issues"
+  },
+  "homepage": "https://github.com/sm1l3ycorp/Angular-6-Unit-Testing-Demo#readme",
+  "dependencies": {
+    "@angular/cli": "^6.2.5"
+  }
+}
